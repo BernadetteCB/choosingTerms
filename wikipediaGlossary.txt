@@ -1,0 +1,300 @@
+A* search
+AI accelerator
+AI-complete
+AlphaGo
+Artificial Intelligence Markup Language
+Association for the Advancement of Artificial Intelligence
+Bayesian programming
+Big O notation
+Boltzmann machine
+Boolean satisfiability problem
+Cobweb
+Darkforest
+Dartmouth workshop
+Datalog
+Deep Blue
+DeepMind Technologies
+Density-based spatial clustering of applications with noise
+Dijkstra's algorithm
+Ebert test
+Hough transform
+Lexical chain
+ML model
+Markov chain
+Markov decision process
+Monte Carlo method
+SLAM
+Turing machine
+Turing test
+abductive logic programming
+abductive reasoning
+ablation
+abstract data type
+abstraction
+accelerating change
+action language
+action model learning
+action selection
+activation function
+adaptive algorithm
+adaptive neuro fuzzy inference system
+admissible heuristic
+affective computing
+agent architecture
+algorithm
+algorithmic efficiency
+algorithmic probability
+ambient intelligence
+analysis of algorithms
+analytics
+answer set programming
+ant colony optimization
+anytime algorithm
+application programming interface
+approximate string matching
+approximation error
+argumentation framework
+artificial general intelligence
+artificial immune system
+artificial intelligence
+asymptotic computational complexity
+attention mechanism
+attributional calculus
+augmented reality
+autoencoder
+automata theory
+automated machine learning
+automated planning and scheduling
+automated reasoning
+autonomic computing
+autonomous car
+autonomous robot
+backpropagation
+backpropagation through structure
+backpropagation through time
+backward chaining
+bag-of-words model
+bag-of-words model in computer vision
+batch normalization
+bees algorithm
+behavior informatics
+behavior tree
+belief–desire–intention software model
+bias–variance tradeoff
+big data
+binary tree
+blackboard system
+boosting
+bootstrap aggregating
+brain technology
+branching factor
+brute-force search
+capsule neural network
+case-based reasoning
+chatbot
+cloud robotics
+cluster analysis
+cognitive architecture
+cognitive computing
+cognitive science
+combinatorial optimization
+committee machine
+commonsense knowledge
+commonsense reasoning
+computational chemistry
+computational complexity theory
+computational creativity
+computational cybernetics
+computational humor
+computational intelligence
+computational learning theory
+computational linguistics
+computational mathematics
+computational neuroscience
+computational number theory
+computational problem
+computational statistics
+computer audition
+computer science
+computer vision
+computer-automated design
+concept drift
+connectionism
+consistent heuristic
+constrained conditional model
+constraint logic programming
+constraint programming
+constructed language
+control theory
+convolutional neural network
+crossover
+data augmentation
+data fusion
+data integration
+data mining
+data science
+data set
+data warehouse
+decision boundary
+decision support system
+decision theory
+decision tree learning
+declarative programming
+deductive classifier
+deep learning
+default logic
+description logic
+developmental robotics
+diagnosis
+dialogue system
+diffusion model
+dimensionality reduction
+discrete system
+distributed artificial intelligence
+double descent
+dropout
+dynamic epistemic logic
+eager learning
+early stopping
+echo state network
+forward chaining
+frame
+frame language
+frame problem
+friendly artificial intelligence
+futures studies
+fuzzy control system
+fuzzy logic
+fuzzy rule
+game tree
+general game playing
+general problem solver
+genetic algorithm
+genetic programming
+gesture recognition
+gradient descent
+graph traversal
+grounding
+heuristic
+heuristic function
+hill climbing
+hyperparameter
+image recognition
+inductive logic programming
+inference engine
+information retrieval
+intelligent agent
+intelligent control
+intelligent database
+intelligent tutoring system
+interactive learning
+interpretability
+interval arithmetic
+intrinsic motivation
+inverse reinforcement learning
+knowledge acquisition
+knowledge base
+knowledge engineering
+knowledge representation
+latent variable
+learning algorithm
+learning automaton
+learning rate
+lifelong learning
+limited memory BFGS
+linguistic variable
+local minimum
+logic programming
+machine ethics
+machine learning
+machine perception
+machine translation
+metaheuristic
+metalearning
+mind uploading
+model-based reasoning
+model-free learning
+motor control
+multi-agent system
+multilayer perceptron
+natural language
+natural language generation
+natural language processing
+neural network
+neuroevolution
+neurofuzzy system
+noisy channel model
+object recognition
+ontology
+optical character recognition
+optimization
+overfitting
+parallel computing
+parameter tuning
+pattern recognition
+perceptron
+planning
+pose estimation
+predictive analytics
+probabilistic programming
+problem solving
+prolog
+prompt engineering
+quantum computing
+question answering
+random forest
+reactive agent
+reasoning
+recurrent neural network
+regression analysis
+reinforcement learning
+representation learning
+robot
+robotics
+rule-based system
+satisfiability
+search algorithm
+self-supervised learning
+semantic network
+semantics
+semi-supervised learning
+sentence embedding
+sentiment analysis
+sequence labeling
+shallow parsing
+simulated annealing
+soft computing
+spatial reasoning
+speech recognition
+speech synthesis
+spiking neural network
+state space
+statistical learning
+stochastic gradient descent
+strong AI
+structured prediction
+supervised learning
+support vector machine
+swarm intelligence
+symbol grounding
+symbolic AI
+symbolic reasoning
+syntactic parsing
+template matching
+temporal logic
+theorem proving
+transfer learning
+transformer
+truth maintenance system
+underfitting
+unsupervised learning
+utility function
+value iteration
+variable elimination
+vector space model
+virtual assistant
+visual recognition
+weak AI
+weighted sum model
+word embedding
+zero-shot learning

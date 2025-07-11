@@ -1,0 +1,104 @@
+Supervised learning
+Linear regression
+LMS algorithm
+The normal equations
+Matrix derivatives
+Least squares revisited
+Probabilistic interpretation
+Locally weighted linear regression (optional reading)
+Classification and logistic regression
+Logistic regression
+Digression: the perceptron learning algorithm
+Multi-class classification
+Another algorithm for maximizing `(θ)
+Generalized linear models
+The exponential family
+Constructing GLMs
+Ordinary least squares
+Logistic regression
+Generative learning algorithms
+Gaussian discriminant analysis
+The multivariate normal distribution
+The Gaussian discriminant analysis model
+GDA and logistic regression
+Naive bayes
+Laplace smoothing
+Event models for text classification
+Kernel methods
+Feature maps
+LMS (least mean squares) with features
+LMS with the kernel trick
+Properties of kernels
+Support vector machines
+Margins: intuition
+Notation
+Functional and geometric margins
+The optimal margin classifier
+Lagrange duality
+Optimal margin classifiers: the dual form
+Regularization and the non-separable case
+The SMO algorithm
+Coordinate ascent
+SMO
+Deep learning
+Deep learning
+Supervised learning with non-linear models
+Neural networks
+Modules in Modern Neural Networks
+Backpropagation
+Preliminaries on partial derivatives
+General strategy of backpropagation
+Backward functions for basic modules
+Back-propagation for MLPs
+Vectorization over training examples
+Generalization and regularization
+Generalization
+Bias-variance tradeoff
+A mathematical decomposition (for regression)
+The double descent phenomenon
+Sample complexity bounds
+Preliminaries
+The case of finite H
+The case of infinite H
+Regularization and model selection
+Regularization
+Implicit regularization effect
+Model selection via cross validation
+Bayesian statistics and regularization
+Unsupervised learning
+Clustering and the k-means algorithm
+EM algorithms
+EM for mixture of Gaussians
+Jensen’s inequality
+General EM algorithms
+Other interpretation of ELBO
+Mixture of Gaussians revisited
+Variational inference and variational auto-encoder
+Principal components analysis
+Independent components analysis
+ICA ambiguities
+Densities and linear transformations
+ICA algorithm
+Self-supervised learning and foundation models
+Pretraining and adaptation
+Pretraining methods in computer vision
+Pretrained large language models
+Open up the blackbox of Transformers
+Zero-shot learning and in-context learning
+Reinforcement Learning and Control
+Reinforcement learning
+Markov decision processes
+Value iteration and policy iteration
+Learning a model for an MDP
+Continuous state MDPs
+Discretization
+Value function approximation
+Connections between Policy and Value Iteration
+LQR, DDP and LQG
+Finite-horizon MDPs
+Linear Quadratic Regulation (LQR)
+From non-linear dynamics to LQR
+Linearization of dynamics
+Differential Dynamic Programming (DDP)
+Linear Quadratic Gaussian (LQG)
+Policy Gradient

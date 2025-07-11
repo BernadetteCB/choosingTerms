@@ -1,0 +1,278 @@
+k-fold cross-validation (k-fold CV)
+k-means
+absolute error loss
+accuracy
+activation function
+algebraic connectivity
+algorithm
+application programming interface (API)
+artificial intelligence (AI)
+artificial neural network (ANN)
+attack
+autoencoder
+backdoor
+bagging
+baseline
+batch
+Bayes estimator
+Bayes risk
+bias
+boosting
+bootstrap
+central limit theorem (CLT)
+characteristic function
+classification
+classifier
+cluster
+clustered federated learning (CFL)
+clustering
+clustering assumption
+computational aspects
+concentration inequality
+condition number
+confusion matrix
+connected graph
+contraction operator
+convex
+convex clustering
+Courant-Fischer-Weyl min-max characterization
+covariance
+covariance matrix
+data
+data augmentation
+data minimization principle
+data normalization
+data point
+data poisoning
+dataset
+decision boundary
+decision region
+decision tree
+deep net
+degree of belonging
+denial-of-service attack
+density-based spatial clustering of applications with noise (DBSCAN)
+determinant
+differentiable
+differential entropy
+differential privacy (DP)
+dimensionality reduction
+discrepancy
+distributed algorithm
+dual norm
+edge weight
+effective dimension
+eigenvalue
+eigenvalue decomposition (EVD)
+eigenvector
+empirical risk
+empirical risk minimization (ERM)
+entropy
+epigraph
+Erdős-Rényi graph (ER graph)
+estimation error
+Euclidean space
+expectation
+expectation-maximization (EM)
+expert
+explainability
+explainable empirical risk minimization (EERM)
+explainable machine learning (XML)
+explanation
+feature
+feature learning
+feature map
+feature matrix
+feature space
+feature vector
+FedAvg
+federated learning (FL)
+federated learning network (FL network)
+FedGD
+FedProx
+FedRelax
+FedSGD
+Finnish Meteorological Institute (FMI)
+fixed-point iteration
+flow-based clustering
+function
+Gaussian mixture model (GMM)
+Gaussian process (GP)
+Gaussian random variable (Gaussian RV)
+general data protection regulation (GDPR)
+generalization
+generalization gap
+generalized total variation (GTV)
+generalized total variation minimization (GTVMin)
+geometric median (GM)
+gradient
+gradient descent (GD)
+gradient step
+gradient-based methods
+graph
+graph clustering
+hard clustering
+high-dimensional regime
+Hilbert space
+hinge loss
+histogram
+horizontal federated learning (HFL)
+Huber loss
+Huber regression
+hypothesis
+hypothesis space
+independent and identically distributed (i.i.d.)
+independent and identically distributed assumption (i.i.d. assumption)
+interpretability
+inverse matrix
+Jacobi method
+kernel
+kernel method
+Kronecker product
+kullback-Leibler divergence (KL divergence)
+label
+label space
+labeled datapoint
+Laplacian matrix
+large language model (LLM)
+law of large numbers
+learning rate
+learning task
+least absolute deviation regression
+least absolute shrinkage and selection operator (Lasso)
+linear classifier
+linear map
+linear model
+linear regression
+local dataset
+local interpretable model-agnostic explanations (LIME)
+local model
+logistic loss
+logistic regression
+loss
+loss function
+machine learning (ML)
+map
+maximum
+maximum likelihood
+mean
+mean squared estimation error (MSEE)
+median
+metric
+minimum
+missing data
+model
+model inversion
+model parameters
+model selection
+multi-armed bandit (MAB)
+multi-label classification
+multitask learning
+multivariate normal distribution
+mutual information (MI)
+nearest neighbour (NN)
+neighborhood
+neighbors
+networked data
+networked exponential families (nExpFam)
+networked federated learning (NFL)
+networked model
+node degree
+non-smooth
+norm
+objective function
+online algorithm
+online gradient descent (online GD)
+online learning
+optimism in the face of uncertainty
+optimization method
+optimization problem
+outlier
+overfitting
+parameter
+parameter space
+polynomial regression
+positive semi-definite (psd)
+prediction
+predictor
+principal component analysis (PCA)
+privacy attack
+privacy funnel
+privacy leakage
+privacy protection
+probabilistic model
+probabilistic principal component analysis (PPCA)
+probability
+probability density function (pdf)
+probability distribution
+probability space
+projected gradient descent (projected GD)
+projection
+proximable
+proximal operator
+pseudoinverse
+quadratic function
+random forest
+random variable (RV)
+realization
+rectified linear unit (ReLU)
+regression
+regret
+regularization
+regularized empirical risk minimization (RERM)
+regularized loss minimization (RLM)
+regularizer
+Rényi divergence
+reward
+ridge regression
+risk
+robustness
+sample
+sample covariance matrix
+sample mean
+sample size
+scatterplot
+semi-supervised learning (SSL)
+sensitive attribute
+similarity graph
+single value decomposition (SVD)
+smooth
+soft clustering
+spectral clustering
+spectrogram
+squared error loss
+stability
+standard normal vector
+statistical aspects
+step size
+stochastic
+stochastic algorithm
+stochastic block model (SBM)
+stochastic gradient descent (SGD)
+stochastic process
+stopping criterion
+strongly convex
+structural risk minimization (SRM)
+subgradient
+subgradient descent
+support vector machine (SVM)
+supremum (or least upper bound)
+test set
+total variation
+training error
+training set
+transparency
+trustworthy artificial intelligence (trustworthy AI)
+uncertainty
+underfitting
+upper confidence bound (UCB)
+validation
+validation error
+validation set
+Vapnik–Chervonenkis dimension (VC dimension)
+variance
+vector space
+vertical federated learning (VFL)
+weights
+zero-gradient condition
+0/1 loss

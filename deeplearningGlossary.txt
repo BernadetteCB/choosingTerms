@@ -1,0 +1,24 @@
+Activation Function
+Backpropagation
+Convolutional Neural Network (CNN)
+Deep Learning
+Epoch
+Feedforward Neural Network
+Gradient Descent
+Hyperparameter
+Image Recognition
+Jupyter Notebook
+Keras
+LSTM (Long Short-Term Memory)
+Mini-Batch Gradient Descent
+Neural Network
+Overfitting
+Pooling Layer
+Quantum Machine Learning
+ReLU (Rectified Linear Unit)
+Stochastic Gradient Descent (SGD)
+Transfer Learning
+Underfitting
+Variational Autoencoder (VAE)
+Weight Initialization
+Xavier/Glorot Initialization

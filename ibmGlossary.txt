@@ -1,0 +1,75 @@
+data mining
+vector database
+chatbot
+DDoD (distributed denial of service) attack
+phishing
+quantum computing
+artificial intelligence
+machine learning
+deep learning
+k-nearest neighbours algorithm
+natural language processing (NLP)
+neural networks
+business intelligence
+linear regression
+logistic regression
+Monte Carlo simulation
+exploratory data analysis
+data science
+visual inspection
+preventive maintenance
+CMMS
+digital twin
+field service management
+automation
+robotic process automation (RPA)
+workflow
+API
+REST API
+interactive voice response
+high-performance computing (HPC)
+SaaS (Software-as-a-service)
+cloud computing
+Kubernetes
+serverless
+mainframe
+No SQL databases
+CAP theorem
+database schema
+etcd
+relational database
+DevOps
+DevSecOps
+software development
+software testing
+Platform-as-a-service (PaaS)
+site reliability engineering (SRE)
+IT infrastructure
+virtualization
+IT management
+data storage
+file storage
+block storage
+middleware
+microservices
+mobile application development
+Java Spring Boot
+three-tier architecture
+network security
+load balancing
+network operations center
+virtual private cloud (VPC)
+Software-Defined Networking
+content delivery network (CDN)
+cybersecurity
+malware
+CAPTCHA
+SIEM
+cloud security
+Security Operations Center (SOC)
+inventory management
+order management
+energy management
+electronic data interchange (EDI)
+managed file transfer
+TCFD

@@ -1,0 +1,28 @@
+Attribute
+Datasource Name
+Input Data
+Location
+Observation
+Row ID
+Schema
+Statistics
+Status
+Target Attribute
+Regression
+Multiclass
+Binary
+Model Size
+Number of Passes
+Regularization
+Model Insights
+AUC
+Macro-averaged F1-score
+RMSE
+Cut-off
+Accuracy
+Precision
+Recall
+Output Location
+Manifest File
+Real-time Prediction API
+Real-time Prediction Endpoint

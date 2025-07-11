@@ -1,0 +1,57 @@
+aggregation
+augment
+automate
+binary classification
+classification
+confidence level
+model confidence
+context errors
+counterfactuals
+data cascades
+data collaboration and labelling
+data distribution
+data examples
+data features
+data labels
+explicit data collection
+explicit feedback
+false negatives
+false positives
+features
+folk theories
+general system explanations
+heuristic-based
+implicit data collection
+implicit feedback
+inter-labeler reliability
+labeler
+labelling/labeled
+ML model
+machine learning
+machine learning (ML) systems
+mental model
+N-best, N-best classifications, N-best lists
+network effect
+overfitting
+atrial explanations
+precision
+predictive power
+probabilistic
+progressive disclosures
+qualitative feedback
+quantitative feedback
+rater
+recall
+redaction
+regressions
+reward function
+second-order effects
+specific output explanations
+supervised learning
+test data
+training data
+transparency
+true negatives
+true positives
+tuning
+underfitting

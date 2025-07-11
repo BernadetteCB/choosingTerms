@@ -1,0 +1,281 @@
+
+Local conditional probability distribution
+Local contrast normalization
+Logistic regression
+Logistic sigmoid
+Long short-term memory
+Loop
+Loopy belief propagation
+Loss function, see objective function
+Lpnorm
+LSTM, see long short-term memory
+M-step
+Machine learning
+Machine translation
+Main diagonal
+Manifold
+Manifold hypothesis
+Manifold learning
+Manifold tangent classiﬁer
+MAP approximation
+Marginal probability
+Markov chain
+Markov chain Monte Carlo
+Markov network, see undirected model
+Markov random ﬁeld, see undirected model
+Matrix
+Matrix inverse
+Matrix product
+Max norm
+Max pooling
+Maximum likelihood
+Maxout
+MCMC, see Markov chain Monte Carlo
+Mean ﬁeld
+Mean squared error
+Measure theory
+Measure zero
+Memory network
+Method of steepest descent, see gradientdescent
+Minibatch
+Missing inputs
+Mixing (Markov chain)
+Mixture density networks
+Mixture distribution
+Mixture model
+Mixture of experts
+MLP, see multilayer perception
+MNIST
+Model averaging
+Model compression
+Model identiﬁability
+Model parallelism
+Moment matching
+Moore-Penrose pseudoinverse
+Moralized graph
+MP-DBM, see multi-prediction DBM
+MRF (Markov Random Field), see undirected model
+MSE, see mean squared error
+Multi-modal learning
+Multi-prediction DBM
+Multi-task learning
+Multilayer perception
+Multilayer perceptron
+Multinomial distribution
+Multinoulli distribution
+n-gram
+NADE
+Naive Bayes
+Nat
+Natural image
+Natural language processing
+Nearest neighbor regression
+Negative deﬁnite
+Negative phase
+Neocognitron
+Nesterov momentum
+Netﬂix Grand Prize
+Neural language model
+Neural network
+Neural Turing machine
+Neuroscience
+Newton’s method
+NLM, see neural language mode
+lNLP, see natural language processing
+No free lunch theorem
+Noise-contrastive estimation
+Nonparametric model
+Norm
+Normal distribution
+Normal equations
+Normalized initialization
+Numerical diﬀerentiation, see ﬁnite diﬀerences
+Object detection
+Object recognition
+Objective function
+MP-k, see orthogonal matching pursuit
+One-shot learning
+Operation
+Optimization
+Orthodox statistics, see frequentist statistics
+Orthogonal matching pursuit
+Orthogonal matrix
+Orthogonality
+Output layer
+Parallel distributed processing
+Parameter initialization
+Parameter sharing
+Parameter tying, see Parameter sharing
+Parametric model
+Parametric ReLU
+Partial derivative
+Partition function
+PCA, see principal components analysis
+PCD, see stochastic maximum likelihood
+Perceptron
+Persistent contrastive divergence, see stochastic maximum likelihood
+Perturbation analysis, see reparametrization trick
+Point estimator
+Policy
+Pooling
+Positive deﬁnite
+Positive phase
+Precision
+Precision (of a normal distribution)
+Predictive sparse decomposition
+Preprocessing
+Pretraining
+Primary visual cortex
+Principal components analysis
+Prior probability distribution
+Probabilistic max pooling
+Probabilistic PCA
+Probability density function
+Probability distribution
+Probability mass function
+Probability mass function estimation
+Product of experts
+Product rule of probability, see chain ruleof probability
+PSD, see predictive sparse decompositionPseudolikelihood
+Quadrature pair
+Quasi-Newton methods
+Radial basis function
+Random search
+Random variable
+Ratio matching
+RBF
+RBM, see restricted Boltzmann machine
+Recall
+Receptive ﬁeld
+Recommender Systems
+Rectiﬁed linear unit
+Recurrent network
+Recurrent neural network
+Regression
+Regularization
+Regularizer
+REINFORCE
+Reinforcement learning
+Relational database
+Relations
+Reparametrization trick
+Representation learning
+Representational capacity
+Restricted Boltzmann machine
+Ridge regression, see weight decay
+Risk RNN-RBM
+Saddle points
+Sample mean
+Scalar
+Score matching
+Second derivative
+Second derivative test
+Self-information
+Semantic hashing
+Semi-supervised learning
+Separable convolution
+Separation (probabilistic modeling
+Set
+SGD, see stochastic gradient descent
+Shannon entropy
+Shortlist
+Sigmoid, see logistic sigmoid
+Sigmoid belief network
+Simple cell
+Singular value, see singular value decomposition
+Singular value decomposition
+Singular vector, see singular value decomposition
+Slow feature analysis
+SML, see stochastic maximum likelihood
+SoftMax
+Softplus
+Spam detection
+Sparse coding
+Sparse initialization
+Sparse representation
+Spearmint
+Spectral radius
+Speech recognition, see automatic speechrecognition
+Sphering, see whitening
+Spike and slab restricted Boltzmann machine
+SPN, see sum-product network
+Square matrix
+ssRBM, see spike and slab restricted Boltz-mann machine
+Standard deviation
+Standard error
+Standard error of the mean
+Statistic
+Statistical learning theory
+Steepest descent, see gradient descent
+Stochastic back-propagation, see reparametrization trick
+Stochastic gradient descent
+Stochastic maximum likelihood
+Stochastic pooling
+Structure learning
+Structured output
+Structured probabilistic model
+Sum rule of probability
+Sum-product network
+Supervised ﬁne-tuning
+Supervised learning
+Support vector machine
+Surrogate loss function
+SVD, see singular value decomposition
+Symmetric matrix
+Tangent distance
+Tangent plane
+Tangent prop
+TDNN, see time-delay neural network
+Teacher forcing
+Tempering
+Template matching
+Tensor
+Test set
+Tikhonov regularization, see weight decay
+Tiled convolution
+Time-delay neural network
+Toeplitz matrix
+Topographic ICA
+Trace operator
+Training error
+Transcription
+Transfer learning
+Transpose
+Triangle inequality
+Triangulated graph, see chordal graph
+Trigram
+Unbiased
+Undirected graphical model
+Undirected model
+Uniform distribution
+Unigram
+Unit norm
+Unit vector
+Universal approximation theorem
+Universal approximator
+Unnormalized probability distribution
+Unsupervised learning
+Unsupervised pretraining
+V-structure, see explaining awayV1
+VAE, see variational autoencoder
+Vapnik-Chervonenkis dimension
+Variance
+Variational autoencoder
+Variational derivatives, see functional derivatives
+Variational free energy, see evidence lowerbound
+VC dimension, see Vapnik-Chervonenkis dimension
+Vector
+Virtual adversarial examples
+Visible layer
+Volumetric data
+Wake-sleep
+Weight decay
+Weight space symmetry
+Weights
+Whitening
+Wikibase
+Word embedding
+Word-sense disambiguation
+WordNet
+Zero-data learning, see zero-shot learning
+Zero-shot learning
